@@ -22,12 +22,12 @@ Ejecutar los siguientes comandos en la terminal:
 
 ```bash
 npm install
-npm install vite --proxy http://10.220.51.116:8080
-npm install vue --proxy http://10.220.51.116:8080
-npm install @tresjs/cientos --proxy http://10.220.51.116:8080/
-npm install @tresjs/core three --proxy http://10.220.51.116:8080/  
-npm install three --proxy http://10.220.51.116:8080
-npm i vue-chartjs chart.js --proxy http://10.220.51.116:8080
+npm install vite 
+npm install vue 
+npm install @tresjs/cientos 
+npm install @tresjs/core three 
+npm install three 
+npm i vue-chartjs chart.js 
 ```
 
 ### Iniciar el Servidor de Desarrollo
